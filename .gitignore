@@ -2,3 +2,5 @@
 *.s
 *.pyc
 **/build
+env/
+challenge_records/
