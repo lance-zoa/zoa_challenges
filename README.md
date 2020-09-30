@@ -22,8 +22,8 @@ Use the provided `requirements.txt` with `pip` to quickly setup a Python3 virtua
 	world.
 
 	Specifically:
-	*  Pick some 3D models (as `\*.obj` or `\*.stl` files) convert them into a format compatible with
-	   PyBullet (`\*.urdf`) (one or two models is more than enough).
+	*  Pick some 3D models (as `*.obj` or `*.stl` files) convert them into a format compatible with
+	   PyBullet (`*.urdf`) (one or two models is more than enough).
 	*  Use the provided script that creates a virtual world in PyBullet with a floor as a starting point.
 	*  Write a script that place each 3D model in the virtual world at any location with any orientation
 	   (relative to the origin and floor).
